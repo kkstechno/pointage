@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\resources",
+    "\\application\\resources\\views"
+  ],
+  "SelectedNode": "\\application\\resources\\views\\clock.blade.php",
+  "PreviewInSolutionExplorer": false
+}
